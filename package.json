@@ -1,6 +1,6 @@
 {
     "name": "nary-tree-mab",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "n-ary trees",
     "main": "dist/nary-tree-mab.js",
     "scripts": {
