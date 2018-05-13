@@ -2,8 +2,7 @@
     "name": "nary-tree-mab",
     "version": "0.1.0",
     "description": "n-ary trees",
-    "main": "nary-tree-mab.js",
-
+    "main": "dist/nary-tree-mab.js",
     "scripts": {
         "build": "webpack --mode development --config webpack.js --display-error-details",
         "lint": "./node_modules/.bin/eslint  lib/*.js t/*.js ",
